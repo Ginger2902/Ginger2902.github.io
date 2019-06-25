@@ -1,0 +1,23 @@
+[10:37:06pm - 171.250.123.237 - Vietnam - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[10:37:19pm - 171.250.123.237 - Vietnam - Chrome - Windows 10] Mengunjungi Scampage
+[10:38:54pm - 171.250.123.237 - Vietnam - Chrome - Windows 10] Mengunjungi Scampage
+[10:39:25pm - 171.250.123.237 - Vietnam - Chrome - Windows 10] Mengunjungi Scampage
+[10:40:08pm - 171.250.123.237 - Vietnam - Chrome - Windows 10] Mengunjungi Scampage
+[10:41:46pm - 171.250.123.237 - Vietnam - Chrome - Windows 10] Mengunjungi Scampage
+[10:42:16pm - 103.195.1.206 - Bangladesh - Chrome - Windows 7] Mengunjungi Scampage
+[11:28:05pm - 103.195.1.206 - Bangladesh - Chrome - Windows 7] Mengunjungi Scampage
+[11:42:24pm - 27.123.255.211 - Bangladesh - Firefox - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[12:14:20am - 181.225.130.154 - El Salvador - Chrome - Windows 7] Mengunjungi Scampage
+[02:37:49am - 92.10.53.166 - United Kingdom - Handheld Browser - iPhone] Mengunjungi Scampage
+[04:07:29am - 92.184.108.209 - France - Handheld Browser - iPhone] Mengunjungi Scampage
+[04:10:18am - 92.23.62.246 - United Kingdom - Handheld Browser - Android] Mengunjungi Scampage
+[04:14:10am - 90.248.54.165 - United Kingdom - Chrome - Windows 10] Mengunjungi Scampage
+[04:18:42am - 90.248.54.165 - United Kingdom - Chrome - Windows 10] Mengunjungi Scampage
+[04:23:29am - 90.248.54.165 - United Kingdom - Chrome - Windows 10] Mengunjungi Scampage
+[04:35:53am - 82.29.4.5 - United Kingdom - Handheld Browser - iPhone] Mengunjungi Scampage
+[04:49:38pm - 103.195.1.206 - Bangladesh - Chrome - Windows 7] Mengunjungi Scampage
+[09:25:46pm - 171.250.123.237 - Vietnam - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[09:25:49pm - 171.250.123.237 - Vietnam - Chrome - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[09:26:04pm - 171.250.123.237 - Vietnam - Chrome - Windows 10] Mengunjungi Scampage
+[03:16:47am - 110.177.79.32 - China - Firefox - Windows 10] Ada bot (Gagal Masuk Site Parameter)
+[03:16:49am - 110.177.79.32 - China - Chrome - Windows 7] Ada bot (Gagal Masuk Site Parameter)
